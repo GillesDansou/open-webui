@@ -5,7 +5,7 @@ name: Sync to GitLab
 #  GITLAB_TOKEN  : GitLab Personal Access Token (scope: write_repository)
 #
 #  Variables required (Settings → Secrets and variables → Actions → Variables)
-#  GITLAB_URL    : URL complète du dépôt GitLab, ex :
+#  GITLAB_URL    : URL complète du dépôt GitLab, ex : 
 #                  https://gitlab.com/mon-groupe/open-webui.git
 # ─────────────────────────────────────────────────────────────
 
